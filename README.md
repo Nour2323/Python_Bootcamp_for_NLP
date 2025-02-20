@@ -12,7 +12,7 @@ Simply click on Open in Colab
 * **Assignment 1**  [![Open A1 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QiATDEUYnoDjeTYHXCxlPsWLNASbwtI4?usp=sharing)
 * **Chapiter 2**   [![Open A1 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yk9nL4W5uA0ypdUTZGQfTu1zvuvxsQZs#scrollTo=VBx3MMaRqf9A)
 * **Chapiter 3**  [![Open A1 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NC-EeED97_71hPQopbW1peDNToDVqggX#scrollTo=4023179c-b5db-47e9-bfb1-efa2e9722875)
-* **Chapiter 4** ...
+* **Chapiter 4**  [![Open A1 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1fiJ56US2gNoxqWLdjwbjewJNR-hvChVi?usp=share_link)
 
 ## Philosophy
 This Bootcamp is designed to bridge the learning gap for Master's students enrolled in the *Natural Language Processing for Business and Finance* course. 
